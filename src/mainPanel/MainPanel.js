@@ -158,7 +158,6 @@ export class MainPanel extends Component {
         placeHolder: ''
       },
       color: {
-        // id: uuid.v4(),
         name: 'color field',
         type: 'color',
         label: 'untitled',
