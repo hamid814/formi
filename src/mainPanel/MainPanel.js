@@ -137,7 +137,6 @@ export class MainPanel extends Component {
         placeHolder: ''
       },
       range: {
-        // id: uuid.v4(),
         name: 'range field',
         type: 'range',
         label: 'untitled',
