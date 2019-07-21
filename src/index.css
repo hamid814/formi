@@ -88,12 +88,20 @@ button:hover {
   background: #83615a;
 }
 
-.btn-success {
+.btn-green {
   background: #66cc99;
 }
 
-.btn-danger {
+.btn-green:hover {
+  background: #57af83;
+}
+
+.btn-red {
   background: #c72230;
+}
+
+.btn-red:hover {
+  background: #a51a25;
 }
 
 #root {
